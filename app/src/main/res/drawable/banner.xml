@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 Android TV home-screen banner: a TV with coloured light spilling out each side. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#101018"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillAlpha="0.55"
+        android:fillColor="#7C4DFF"
+        android:pathData="M0,20h110v140h-110z" />
+    <path
+        android:fillAlpha="0.55"
+        android:fillColor="#FF7043"
+        android:pathData="M210,20h110v140h-110z" />
+    <path
+        android:fillAlpha="0.4"
+        android:fillColor="#FFB74D"
+        android:pathData="M90,0h140v30h-140z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M78,38h164a6,6 0,0 1,6 6v88a6,6 0,0 1,-6 6h-164a6,6 0,0 1,-6 -6v-88a6,6 0,0 1,6 -6z" />
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M160,58a20,20 0,0 0,-20 20c0,6.8 3.4,12.77 8.57,16.4V101a2.86,2.86 0,0 0,2.86 2.86h17.14a2.86,2.86 0,0 0,2.86 -2.86v-6.6C176.6,90.77 180,84.8 180,78a20,20 0,0 0,-20 -20zM151.43,112.57a2.86,2.86 0,0 0,2.86 2.86h11.42a2.86,2.86 0,0 0,2.86 -2.86v-2.86h-17.14v2.86z" />
+</vector>

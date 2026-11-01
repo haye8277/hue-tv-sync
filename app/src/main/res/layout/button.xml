@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="64dp"
+    android:layout_marginTop="12dp"
+    android:background="@drawable/button_bg"
+    android:minWidth="380dp"
+    android:paddingHorizontal="32dp"
+    android:stateListAnimator="@null"
+    android:textAllCaps="false"
+    android:textColor="@color/button_text"
+    android:textSize="20sp" />

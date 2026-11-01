@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hue TV Sync</string>
+
+    <string name="turn_on">Turn ON</string>
+    <string name="turn_off">Turn OFF</string>
+    <string name="brightness">Brightness: %1$s</string>
+    <string name="setup_again">Set up again</string>
+
+    <string name="status_off">Lights are not syncing</string>
+    <string name="status_starting">Starting…</string>
+    <string name="status_screen">Syncing with the screen</string>
+    <string name="status_mood">Mood lighting for %1$s (this app\'s video can\'t be read)</string>
+    <string name="status_reconnecting">Lost the bridge, reconnecting…</string>
+    <string name="status_error">Stopped: %1$s</string>
+    <string name="hint_no_access">Mood lighting for Netflix and similar apps needs one extra permission. Run install.ps1 from your PC to grant it.</string>
+    <string name="capture_denied">Screen capture is needed to sync the lights.</string>
+
+    <string name="setup_title">Setting up</string>
+    <string name="searching">Looking for your Hue Bridge…</string>
+    <string name="not_found_title">Bridge not found</string>
+    <string name="enter_ip">Enter your Hue Bridge\'s IP address. You can find it in the Hue app under Settings → My Hue system → Bridge.</string>
+    <string name="ip_hint">192.168.1.20</string>
+    <string name="bad_ip">That doesn\'t look like an IP address</string>
+    <string name="connect">Connect</string>
+    <string name="search_again">Search again</string>
+    <string name="press_button_title">Press the bridge button</string>
+    <string name="press_button">Press the big round button on top of your Hue Bridge.\nThis screen will move on by itself.</string>
+    <string name="cant_reach">Can\'t reach the bridge at %1$s</string>
+    <string name="timed_out_title">Timed out</string>
+    <string name="timed_out">The bridge button wasn\'t pressed in time.</string>
+    <string name="try_again">Try again</string>
+    <string name="loading_areas">Getting your entertainment areas…</string>
+    <string name="couldnt_load">Couldn\'t load your lights</string>
+    <string name="no_area_title">No entertainment area yet</string>
+    <string name="no_area">Open the Philips Hue app on your phone, go to Settings → Entertainment areas, and create one with the lights around your TV. Then press Try again.</string>
+    <string name="pick_area_title">Choose your TV area</string>
+    <string name="pick_area">Which entertainment area is around this TV?</string>
+
+    <string name="notification_channel">Light sync</string>
+    <string name="notification_title">Hue light sync is on</string>
+</resources>
